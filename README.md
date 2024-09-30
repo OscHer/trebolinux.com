@@ -21,6 +21,12 @@ Cada feature, despliegue o bugfix está probado on-prem usando [Vagrant](https:/
 para mantener la portabilidad en la medida de lo posible sin sacrificar redundancia del entorno productivo
 en entornos previos.
 
+### Convenciones
+#### Backlog
+Para evitar gestión de backlog de forma farragosa utilizaré un estándar propio
+donde la deuda técnica forma parte del código y puede ser procesado a posteriori
+con el comando ```grep -Rns TODO *``` para obtener un archivo parseable de forma sencilla.
+
 ### Bibliografía
 * [Ansible](https://docs.ansible.com/)
 * [Vagrant](https://www.vagrantup.com/) 
