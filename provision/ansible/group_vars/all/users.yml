@@ -1,0 +1,5 @@
+users:
+  - name: ansible_user 
+    shell: /usr/bin/bash
+    groups: sudo
+    state: present
