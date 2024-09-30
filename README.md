@@ -6,7 +6,7 @@ Este repositorio responde a la necesidad de documentar el código (sea del tipo 
 para mi blog alojado en www.trebolinux.com 
 
 ## Componentes
-### cloud-config 
+
 
 ## Appendix
 ### Bibliography
