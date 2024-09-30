@@ -25,7 +25,7 @@ en entornos previos.
 * [Ansible](https://docs.ansible.com/)
 * [Vagrant](https://www.vagrantup.com/) 
 * [Libvirt](https://libvirt.org/)
-* [Vagrant-libvirt](https://github.com/vagrant-libvirt/vagrant-libvirt)
+* [Vagrant-libvirt](https://vagrant-libvirt.github.io/vagrant-libvirt/)
 
 
 
